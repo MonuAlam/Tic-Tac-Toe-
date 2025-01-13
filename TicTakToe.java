@@ -1,5 +1,4 @@
 import java.util.*;
-
 class TicTakToe{
 static char turn='X';
 static int row,col,choice;
